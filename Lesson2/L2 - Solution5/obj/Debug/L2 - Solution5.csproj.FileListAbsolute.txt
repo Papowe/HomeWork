@@ -1,0 +1,7 @@
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\bin\Debug\L2 - Solution5.exe.config
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\bin\Debug\L2 - Solution5.exe
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\bin\Debug\L2 - Solution5.pdb
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\obj\Debug\L2 - Solution5.csprojAssemblyReference.cache
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\obj\Debug\L2 - Solution5.csproj.CoreCompileInputs.cache
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\obj\Debug\L2 - Solution5.exe
+D:\Desktop\HomeWork\Lesson2\L2 - Solution5\obj\Debug\L2 - Solution5.pdb
