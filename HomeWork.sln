@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2 - Solution1", "Lesson2\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2 - Solution2", "Lesson2\L2 - Solution2\L2 - Solution2.csproj", "{FBB1D71F-254E-428D-B49A-EC184EACD71D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2 - Splution3", "Lesson2\L2 - Splution3\L2 - Splution3.csproj", "{A69C0273-E84B-44A5-B417-CE54D1A0B24F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2 - Solution3", "Lesson2\L2 - Splution3\L2 - Solution3.csproj", "{A69C0273-E84B-44A5-B417-CE54D1A0B24F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2 - Solution4", "Lesson2\L2 - Solution4\L2 - Solution4.csproj", "{15DA428C-3406-4E61-AABB-741AA0C9719E}"
 EndProject
