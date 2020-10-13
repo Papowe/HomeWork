@@ -1,0 +1,6 @@
+D:\Desktop\CSharpProject\Lesson 1\Solution4\bin\Debug\Solution4.exe.config
+D:\Desktop\CSharpProject\Lesson 1\Solution4\bin\Debug\Solution4.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution4\bin\Debug\Solution4.pdb
+D:\Desktop\CSharpProject\Lesson 1\Solution4\obj\Debug\Solution4.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharpProject\Lesson 1\Solution4\obj\Debug\Solution4.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution4\obj\Debug\Solution4.pdb

@@ -1,0 +1,7 @@
+D:\Desktop\HomeWork\Solution2\bin\Debug\Solution2.exe.config
+D:\Desktop\HomeWork\Solution2\bin\Debug\Solution2.exe
+D:\Desktop\HomeWork\Solution2\bin\Debug\Solution2.pdb
+D:\Desktop\HomeWork\Solution2\obj\Debug\Solution2.csprojAssemblyReference.cache
+D:\Desktop\HomeWork\Solution2\obj\Debug\Solution2.csproj.CoreCompileInputs.cache
+D:\Desktop\HomeWork\Solution2\obj\Debug\Solution2.exe
+D:\Desktop\HomeWork\Solution2\obj\Debug\Solution2.pdb

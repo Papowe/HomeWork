@@ -1,0 +1,14 @@
+D:\Desktop\CSharpProject\Lesson 1\Solution6\bin\Debug\Solution6.exe.config
+D:\Desktop\CSharpProject\Lesson 1\Solution6\bin\Debug\Solution6.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution6\bin\Debug\Solution6.pdb
+D:\Desktop\CSharpProject\Lesson 1\Solution6\obj\Debug\Solution6.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharpProject\Lesson 1\Solution6\obj\Debug\Solution6.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution6\obj\Debug\Solution6.pdb
+D:\Desktop\CSharpProject\Lesson 1\Solution6\obj\Debug\Solution6.csprojAssemblyReference.cache
+D:\Desktop\HM\Solution6\bin\Debug\Solution6.exe.config
+D:\Desktop\HM\Solution6\bin\Debug\Solution6.exe
+D:\Desktop\HM\Solution6\bin\Debug\Solution6.pdb
+D:\Desktop\HM\Solution6\obj\Debug\Solution6.csprojAssemblyReference.cache
+D:\Desktop\HM\Solution6\obj\Debug\Solution6.csproj.CoreCompileInputs.cache
+D:\Desktop\HM\Solution6\obj\Debug\Solution6.exe
+D:\Desktop\HM\Solution6\obj\Debug\Solution6.pdb

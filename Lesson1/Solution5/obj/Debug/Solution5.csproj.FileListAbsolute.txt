@@ -1,0 +1,12 @@
+D:\Desktop\CSharpProject\Lesson 1\Solution5\bin\Debug\Solution5.exe.config
+D:\Desktop\CSharpProject\Lesson 1\Solution5\bin\Debug\Solution5.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution5\bin\Debug\Solution5.pdb
+D:\Desktop\CSharpProject\Lesson 1\Solution5\obj\Debug\Solution5.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharpProject\Lesson 1\Solution5\obj\Debug\Solution5.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution5\obj\Debug\Solution5.pdb
+D:\Desktop\HM\Solution5\bin\Debug\Solution5.exe.config
+D:\Desktop\HM\Solution5\bin\Debug\Solution5.exe
+D:\Desktop\HM\Solution5\bin\Debug\Solution5.pdb
+D:\Desktop\HM\Solution5\obj\Debug\Solution5.csproj.CoreCompileInputs.cache
+D:\Desktop\HM\Solution5\obj\Debug\Solution5.exe
+D:\Desktop\HM\Solution5\obj\Debug\Solution5.pdb

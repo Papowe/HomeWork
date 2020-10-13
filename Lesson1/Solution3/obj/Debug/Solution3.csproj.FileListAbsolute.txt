@@ -1,0 +1,12 @@
+D:\Desktop\CSharpProject\Lesson 1\Solution3\bin\Debug\Solution3.exe.config
+D:\Desktop\CSharpProject\Lesson 1\Solution3\bin\Debug\Solution3.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution3\bin\Debug\Solution3.pdb
+D:\Desktop\CSharpProject\Lesson 1\Solution3\obj\Debug\Solution3.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharpProject\Lesson 1\Solution3\obj\Debug\Solution3.exe
+D:\Desktop\CSharpProject\Lesson 1\Solution3\obj\Debug\Solution3.pdb
+D:\Desktop\HM\Solution3\bin\Debug\Solution3.exe.config
+D:\Desktop\HM\Solution3\bin\Debug\Solution3.exe
+D:\Desktop\HM\Solution3\bin\Debug\Solution3.pdb
+D:\Desktop\HM\Solution3\obj\Debug\Solution3.csproj.CoreCompileInputs.cache
+D:\Desktop\HM\Solution3\obj\Debug\Solution3.exe
+D:\Desktop\HM\Solution3\obj\Debug\Solution3.pdb
