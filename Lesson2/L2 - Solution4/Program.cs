@@ -36,7 +36,7 @@ namespace L2___Solution4
             }
             else
             {
-                Console.WriteLine("Вход не выполнен");
+                Console.WriteLine("Программа не выполняться");
             }
         }
 
