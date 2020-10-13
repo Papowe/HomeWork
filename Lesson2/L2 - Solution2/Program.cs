@@ -10,6 +10,7 @@ namespace L2___Solution2
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

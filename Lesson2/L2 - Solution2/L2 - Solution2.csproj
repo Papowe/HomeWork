@@ -7,7 +7,7 @@
     <ProjectGuid>{FBB1D71F-254E-428D-B49A-EC184EACD71D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>L2___Solution2</RootNamespace>
-    <AssemblyName>L2___Solution2</AssemblyName>
+    <AssemblyName>L2 - Solution2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
