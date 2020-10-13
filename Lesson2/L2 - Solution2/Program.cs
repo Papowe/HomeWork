@@ -23,7 +23,7 @@ namespace L2___Solution2
             {
                 a = a / 10;
             }
-            Console.WriteLine("Количиство чисел = " + i);
+            Console.WriteLine("Количиство чисел = " + i.ToString());
         }
     }
 }
