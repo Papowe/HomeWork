@@ -34,7 +34,7 @@ namespace L3___Solution1
             y.re = re * x.re - im * x.im;
             return y;
         }
-        public string ToString()
+        public override string ToString()
         {
             return re + "+" + im + "i";
         }

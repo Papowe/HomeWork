@@ -1,0 +1,7 @@
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\bin\Debug\L3 - Solution2.exe.config
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\bin\Debug\L3 - Solution2.exe
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\bin\Debug\L3 - Solution2.pdb
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\obj\Debug\L3 - Solution2.csprojAssemblyReference.cache
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\obj\Debug\L3 - Solution2.csproj.CoreCompileInputs.cache
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\obj\Debug\L3 - Solution2.exe
+D:\Desktop\HomeWork\Lesson3\L3 - Solution2\obj\Debug\L3 - Solution2.pdb

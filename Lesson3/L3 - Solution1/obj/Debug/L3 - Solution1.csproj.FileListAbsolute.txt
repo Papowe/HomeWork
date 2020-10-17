@@ -4,3 +4,4 @@ D:\Desktop\HomeWork\Lesson3\L3 - Solution1\bin\Debug\L3 - Solution1.pdb
 D:\Desktop\HomeWork\Lesson3\L3 - Solution1\obj\Debug\L3 - Solution1.csproj.CoreCompileInputs.cache
 D:\Desktop\HomeWork\Lesson3\L3 - Solution1\obj\Debug\L3 - Solution1.exe
 D:\Desktop\HomeWork\Lesson3\L3 - Solution1\obj\Debug\L3 - Solution1.pdb
+D:\Desktop\HomeWork\Lesson3\L3 - Solution1\obj\Debug\L3 - Solution1.csprojAssemblyReference.cache
