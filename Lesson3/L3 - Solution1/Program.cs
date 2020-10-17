@@ -17,15 +17,18 @@ namespace L3___Solution1
         {
             //----------------------ПРИМЕР КОМПЛЕКСНЫХ ЧИСЕЛ СТРУКТУР------------------
             StructComplex complex1;
-            complex1.im = 34;
-            complex1.re = 6;
+            complex1.im = 10;
+            complex1.re = 8;
 
             StructComplex complex2;
-            complex2.im = 3;
-            complex2.re = 2;
+            complex2.im = 12;
+            complex2.re = 3;
 
-            StructComplex rezultComplex = complex1.Minus(complex2);
-            Console.WriteLine(rezultComplex.ToString());
+            StructComplex rezultComplexPlus = complex1.Plus(complex2);
+            Console.WriteLine(rezultComplexPlus.ToString());
+
+            StructComplex rezultComplexMinus = complex1.Minus(complex2);
+            Console.WriteLine(rezultComplexMinus.ToString());
 
             //---------------------ПРИМЕР КОМПЛЕКСНЫХ ЧИСЕЛ КЛАССОВ-------------------
             ClassComplex complex3 = new ClassComplex();
@@ -33,14 +36,17 @@ namespace L3___Solution1
             complex3.re = 8;
 
             ClassComplex complex4 = new ClassComplex();
-            complex3.im = 1;
-            complex3.re = 4;
+            complex4.im = 12;
+            complex4.re = 3;
 
-            ClassComplex rezultClass = complex3.Minus(complex4);
-            Console.WriteLine(rezultClass.ToString());
+            ClassComplex rezultClassPlus = complex3.Plus(complex4);
+            Console.WriteLine(rezultClassPlus.ToString());
 
+            ClassComplex rezultClassMinus = complex3.Minus(complex4);
+            Console.WriteLine(rezultClassMinus.ToString());
 
-
+            ClassComplex rezultClassMUlti = complex3.Milti(complex4);
+            Console.WriteLine(rezultClassMUlti.ToString());
 
         }
     }
