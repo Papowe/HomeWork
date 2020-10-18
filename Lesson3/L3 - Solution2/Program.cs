@@ -45,6 +45,7 @@ namespace L3___Solution2
                 else
                 {
                     Console.WriteLine("Нужно ввести число");
+                    //throw new Exception("нужно ввести число");
                 }
             }
 
