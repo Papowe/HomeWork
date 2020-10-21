@@ -8,7 +8,58 @@ namespace L4___Solution3
 {
     class MyClass
     {
-        public int[] arr;
+        private int[] arr;
+
+        public int this[int i]
+        {
+            get { return arr[i]; }
+            set { arr[i] = value; }
+        }
+
+        /// <summary>
+        /// Возвращает максимальный элемент массива.
+        /// </summary>
+        public int MaxCount
+        {
+            get
+            {
+                int max = arr[0];
+                for (int i = 0; i < arr.Length; i++)
+                {
+                    if (arr[i] > max) max = arr[i];
+                }
+                return max;
+            }
+        }
+
+        /// <summary>
+        /// Свойство возвращает сумму всех элементов массива.
+        /// </summary>
+        public int Sum
+        {
+            get
+            {
+                int sum = 0;
+                for (int i = 0; i < arr.Length; i++)
+                {
+                    sum += arr[i];
+                }
+                return sum;
+            }
+        }
+
+        /// <summary>
+        /// Возвращает количество элементов массива.
+        /// </summary>
+        public int Length { get { return arr.Length; } }
+
+        /// <summary>
+        /// Заполнение массива.
+        /// </summary>
+        /// <param name="elements">Количество элементов в массиве.</param>
+        /// <param name="initial">Начальный элемент</param>
+        /// <param name="step">Шаг с которым будет генерироваться массив.</param>
+
 
         public MyClass(int elements, int initial, int step)
         {
@@ -19,6 +70,55 @@ namespace L4___Solution3
             {
                 arr[i] = arr[i - 1] + step;
             }
+        }        
+
+        /// <summary>
+        /// Метод выводит в консоль элеиенты массива.
+        /// </summary>
+        public void Show()
+        {
+            foreach (int element in arr)
+            {
+                Console.Write($"{element} ");
+            }
+            Console.WriteLine();
+        }       
+
+        /// <summary>
+        /// Метод копирует и возвращает массив с измененными знаками.
+        /// </summary>
+        /// <returns></returns>
+        public int[] Inverse()
+        {
+            int[] tempArr = new int[arr.Length];
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    tempArr[i] = arr[i];
+            //    tempArr[i] = -tempArr[i];
+            //}
+
+            Array.Copy(arr, tempArr, arr.Length);
+            for (int i = 0; i < tempArr.Length; i++)
+            {
+                tempArr[i] = -tempArr[i];
+            }
+
+            return tempArr;
         }
+
+        /// <summary>
+        /// Умножает каждый элемент массива на определённое число.
+        /// </summary>
+        /// <param name="number">Множитель</param>
+        public void Multi(int number)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] *= number;
+            }
+        }
+
+
     }
 }

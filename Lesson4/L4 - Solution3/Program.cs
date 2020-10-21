@@ -18,12 +18,27 @@ namespace L4___Solution3
             // б)**Создать библиотеку содержащую класс для работы с массивом.Продемонстрировать работу библиотеки
             // е) ***Подсчитать частоту вхождения каждого элемента в массив(коллекция Dictionary< int,int>)
 
-            MyClass myClass = new MyClass(5, 10, 3);
+            MyClass myClass = new MyClass(11, -13, 3);
 
-            for (int i = 0; i < myClass.arr.Length; i++)
+            Console.WriteLine("Все  элементы вассива.");
+            myClass.Show();
+
+            Console.WriteLine($"Сумма всех числем массива = {myClass.Sum}");
+
+            Console.WriteLine("Скопированный массив с измененными знаками.");
+            int[] arr2 = new int[myClass.Length];
+            arr2 = myClass.Inverse();
+            foreach (var item in arr2)
             {
-                Console.WriteLine(myClass.arr[i]);
+                Console.Write($"{item} ");
             }
+
+
+            Console.WriteLine("\nУмножаем каждый элемент массива на определённое число");
+            myClass.Multi(4);
+            myClass.Show();
+
+            Console.WriteLine($"Максимальный элемент массива = {myClass.MaxCount}");
 
         }
     }
