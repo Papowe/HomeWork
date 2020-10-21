@@ -17,9 +17,42 @@ namespace L4___Solution3
         }
 
         /// <summary>
+        /// Заполнение массива.
+        /// </summary>
+        /// <param name="elements">Количество элементов в массиве.</param>
+        /// <param name="initial">Начальный элемент</param>
+        /// <param name="step">Шаг с которым будет генерироваться массив.</param>
+
+        public MyClass(int elements, int initial, int step)
+        {
+            arr = new int[elements];
+            arr[0] = initial;
+
+            for (int i = 1; i < arr.Length; i++)
+            {
+                arr[i] = arr[i - 1] + step;
+            }
+        }
+
+        /// <summary>
+        /// Заполнение массива от 0 до заданого числа.
+        /// </summary>
+        /// <param name="element">количиство элементов</param>
+        /// <param name="max">Максимальное число</param>
+        public MyClass(int element, int max)
+        {
+            Random rnd = new Random();
+            arr = new int[element];
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = rnd.Next(max);
+            }
+        }
+
+        /// <summary>
         /// Возвращает максимальный элемент массива.
         /// </summary>
-        public int MaxCount
+        public int Max
         {
             get
             {
@@ -29,6 +62,23 @@ namespace L4___Solution3
                     if (arr[i] > max) max = arr[i];
                 }
                 return max;
+            }
+        }
+
+        /// <summary>
+        /// Возвращает количиство максимальныч элементов массива.
+        /// </summary>
+        public int MaxCount
+        {
+            get
+            {
+                int max = Max;
+                int count = 0;
+                for (int i = 0; i < arr.Length; i++)
+                {
+                    if (arr[i] == max) count++;
+                }
+                return count;
             }
         }
 
@@ -51,26 +101,7 @@ namespace L4___Solution3
         /// <summary>
         /// Возвращает количество элементов массива.
         /// </summary>
-        public int Length { get { return arr.Length; } }
-
-        /// <summary>
-        /// Заполнение массива.
-        /// </summary>
-        /// <param name="elements">Количество элементов в массиве.</param>
-        /// <param name="initial">Начальный элемент</param>
-        /// <param name="step">Шаг с которым будет генерироваться массив.</param>
-
-
-        public MyClass(int elements, int initial, int step)
-        {
-            arr = new int[elements];
-            arr[0] = initial;
-
-            for (int i = 1; i < arr.Length; i++)
-            {
-                arr[i] = arr[i - 1] + step;
-            }
-        }        
+        public int Length { get { return arr.Length; } }       
 
         /// <summary>
         /// Метод выводит в консоль элеиенты массива.

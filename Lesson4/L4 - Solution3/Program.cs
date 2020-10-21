@@ -18,7 +18,8 @@ namespace L4___Solution3
             // б)**Создать библиотеку содержащую класс для работы с массивом.Продемонстрировать работу библиотеки
             // е) ***Подсчитать частоту вхождения каждого элемента в массив(коллекция Dictionary< int,int>)
 
-            MyClass myClass = new MyClass(11, -13, 3);
+            //MyClass myClass = new MyClass(11, -13, 3); // Генерирует массив (количиство элементов, начальный элемент, шаг изменение)
+            MyClass myClass = new MyClass(20, 10);       // Генерирует массив (количиство элементов, до заданного числа )
 
             Console.WriteLine("Все  элементы вассива.");
             myClass.Show();
@@ -38,7 +39,11 @@ namespace L4___Solution3
             myClass.Multi(4);
             myClass.Show();
 
-            Console.WriteLine($"Максимальный элемент массива = {myClass.MaxCount}");
+            Console.WriteLine($"Максимальный элемент массива = {myClass.Max}");
+
+            Console.WriteLine($"Количиство максимальнных элементов массива = {myClass.MaxCount}");
+
+
 
         }
     }
