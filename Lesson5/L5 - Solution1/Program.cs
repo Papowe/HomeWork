@@ -22,12 +22,11 @@ namespace L5___Solution1
             {
                 Console.WriteLine("Введите логин");
                 string login = Console.ReadLine();
-                //confirm = LoginVerification(login);
-                confirm = LoginVerification(login, true);                
+                //confirm = LoginVerification(login);          --------- Без использования регулярных выражений.
+                confirm = LoginVerification(login, true);    //--------- С использованием регулярных выражений.
             }
 
             Console.WriteLine("Вы вошли");
-
         }
 
         /// <summary>
@@ -84,7 +83,7 @@ namespace L5___Solution1
         static bool LoginVerification(string str, bool regular)
         {
             bool check = false;
-            Regex regex = new Regex(@"\b[a-zA-Z][a-zA-z0-9]{2,9}\b");
+            Regex regex = new Regex(@"^[a-zA-Z][a-zA-z0-9]{2,9}\b");
             check = regex.IsMatch(str);
             if (check)
             {
@@ -95,10 +94,8 @@ namespace L5___Solution1
             {
                 Console.WriteLine("Логин некорректный!");
                 return false;
-            }
-            
+            }            
         }
-
 
         /// <summary>
         /// Метод проверяет символ, является ли он латинской буквой.
