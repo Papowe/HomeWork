@@ -1,0 +1,13 @@
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\bin\Debug\netcoreapp3.1\L6 - Solution2.exe
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\bin\Debug\netcoreapp3.1\L6 - Solution2.deps.json
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\bin\Debug\netcoreapp3.1\L6 - Solution2.runtimeconfig.json
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\bin\Debug\netcoreapp3.1\L6 - Solution2.runtimeconfig.dev.json
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\bin\Debug\netcoreapp3.1\L6 - Solution2.dll
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\bin\Debug\netcoreapp3.1\L6 - Solution2.pdb
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.csprojAssemblyReference.cache
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.AssemblyInfoInputs.cache
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.AssemblyInfo.cs
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.csproj.CoreCompileInputs.cache
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.dll
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.pdb
+D:\Desktop\HomeWork\Lesson6\L6 - Solution2\obj\Debug\netcoreapp3.1\L6 - Solution2.genruntimeconfig.cache
