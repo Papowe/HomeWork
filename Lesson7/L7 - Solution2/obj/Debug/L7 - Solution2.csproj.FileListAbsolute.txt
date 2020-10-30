@@ -1,0 +1,9 @@
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\bin\Debug\L7 - Solution2.exe.config
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\bin\Debug\L7 - Solution2.exe
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\bin\Debug\L7 - Solution2.pdb
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\obj\Debug\L7 - Solution2.csprojAssemblyReference.cache
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\obj\Debug\L7___Solution2.Properties.Resources.resources
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\obj\Debug\L7 - Solution2.csproj.GenerateResource.cache
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\obj\Debug\L7 - Solution2.csproj.CoreCompileInputs.cache
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\obj\Debug\L7 - Solution2.exe
+D:\Desktop\HomeWork\Lesson7\L7 - Solution2\obj\Debug\L7 - Solution2.pdb

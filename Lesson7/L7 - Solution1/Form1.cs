@@ -113,8 +113,10 @@ namespace L7___Solution1
         /// </summary>
         private void Cancel()
         {
-            if (history.Count.Equals(0)) return;
-            lblNumbers.Text = history.Pop();              
+            if (history.Count.Equals(0))
+            { return; }
+            history.Pop();
+            lblNumbers.Text = history.Peek();
         }
     }
 }
