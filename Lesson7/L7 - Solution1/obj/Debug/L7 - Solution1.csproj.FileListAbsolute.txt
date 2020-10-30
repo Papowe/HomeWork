@@ -1,0 +1,10 @@
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\bin\Debug\L7 - Solution1.exe.config
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\bin\Debug\L7 - Solution1.exe
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\bin\Debug\L7 - Solution1.pdb
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7 - Solution1.csprojAssemblyReference.cache
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7___Solution1.Form1.resources
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7___Solution1.Properties.Resources.resources
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7 - Solution1.csproj.GenerateResource.cache
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7 - Solution1.csproj.CoreCompileInputs.cache
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7 - Solution1.exe
+D:\Desktop\HomeWork\Lesson7\L7 - Solution1\obj\Debug\L7 - Solution1.pdb
